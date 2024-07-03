@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660952689240",
+    "project_id": "vazifa66-affdf",
+    "storage_bucket": "vazifa66-affdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660952689240:android:cf71cae7fc26b317d7b82d",
+        "android_client_info": {
+          "package_name": "com.example.amaliyot_vazifa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVt2d6gEIIPQLOeSsQg6p-lM889dOXdbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
